@@ -25,12 +25,12 @@ Boston Housing Dataset Attribute Information (in order):
              - seaborn
              - scikit-learn
 # Algorithms
-Linear Regression
-Decision Tree
-Random Forest
-Extra Tress
-XGBoost
-Mean Squared Error: 10.0
+             - Linear Regression
+             - Decision Tree
+             - Random Forest
+             - Extra Tress
+             - XGBoost
+             - Mean Squared Error: 10.0
 
 ![ml2](https://github.com/ahmedzaky1/Boston-Housing-Prediction---Regression/assets/103897664/e3d7e472-99aa-41f2-a482-a5e5a0c63623)
 ![ml1](https://github.com/ahmedzaky1/Boston-Housing-Prediction---Regression/assets/103897664/e46cc4e7-7fff-482a-91f6-86a1c7bbcf73)
