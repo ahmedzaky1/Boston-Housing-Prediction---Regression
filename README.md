@@ -20,10 +20,10 @@ Boston Housing Dataset Attribute Information (in order):
         - MEDV     Median value of owner-occupied homes in $1000's
 
 # Libraries
-pandas
-matplotlib
-seaborn
-scikit-learn
+             - pandas
+             - matplotlib
+             - seaborn
+             - scikit-learn
 # Algorithms
 Linear Regression
 Decision Tree
